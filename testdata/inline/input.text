@@ -1,0 +1,674 @@
+{%%%Example 282%%%}
+\!\"\#\$\%\&\'\(\)\*\+\,\-\.\/\:\;\<\=\>\?\@\[\\\]\^\_\`\{\|\}\~
+{%%%Example 283%%%}
+\	\A\a\ \3\φ\«
+{%%%Example 284%%%}
+\*not emphasized*
+\<br/> not a tag
+\[not a link](/foo)
+\`not code`
+{%%%Example 285%%%}
+\\*emphasis*
+{%%%Example 286%%%}
+foo\
+bar
+{%%%Example 287%%%}
+`` \[\` ``
+{%%%Example 290%%%}
+<http://example.com?find=\*>
+{%%%Example 291%%%}
+<a href="/bar\/)">
+{%%%Example 292%%%}
+[foo](/bar\* "ti\*tle")
+{%%%Example 293%%%}
+[foo293]
+{%%%Example 296%%%}
+&#35; &#1234; &#992; &#98765432; &#0;
+{%%%Example 297%%%}
+&#X22; &#XD06; &#xcab;
+{%%%Example 298%%%}
+&nbsp &x; &#; &#x;
+&ThisIsNotDefined; &hi?;
+{%%%Example 299%%%}
+&copy
+{%%%Example 300%%%}
+&MadeUpEntity;
+{%%%Example 301%%%}
+<a href="&ouml;&ouml;.html">
+{%%%Example 302%%%}
+[foo](/f&ouml;&ouml; "f&ouml;&ouml;")
+{%%%Example 303%%%}
+[foo303]
+{%%%Example 305%%%}
+`f&ouml;&ouml;`
+{%%%Example 307%%%}
+`foo`
+{%%%Example 308%%%}
+`` foo ` bar  ``
+{%%%Example 309%%%}
+` `` `
+{%%%Example 310%%%}
+``
+foo
+``
+{%%%Example 311%%%}
+`foo   bar
+  baz`
+{%%%Example 312%%%}
+`foo `` bar`
+{%%%Example 313%%%}
+`foo\`bar`
+{%%%Example 314%%%}
+*foo`*`
+{%%%Example 315%%%}
+[not a `link](/foo`)
+{%%%Example 316%%%}
+`<a href="`">`
+{%%%Example 317%%%}
+<a href="`">`
+{%%%Example 318%%%}
+`<http://foo.bar.`baz>`
+{%%%Example 319%%%}
+<http://foo.bar.`baz>`
+{%%%Example 320%%%}
+```foo``
+{%%%Example 321%%%}
+`foo
+{%%%Example 322%%%}
+*foo bar*
+{%%%Example 323%%%}
+a * foo bar*
+{%%%Example 324%%%}
+a*"foo"*
+{%%%Example 325%%%}
+* a *
+{%%%Example 326%%%}
+foo*bar*
+{%%%Example 327%%%}
+5*6*78
+{%%%Example 328%%%}
+_foo bar_
+{%%%Example 329%%%}
+_ foo bar_
+{%%%Example 330%%%}
+a_"foo"_
+{%%%Example 331%%%}
+foo_bar_
+{%%%Example 332%%%}
+5_6_78
+{%%%Example 333%%%}
+пристаням_стремятся_
+{%%%Example 334%%%}
+aa_"bb"_cc
+{%%%Example 335%%%}
+foo-_(bar)_
+{%%%Example 336%%%}
+_foo*
+{%%%Example 337%%%}
+*foo bar *
+{%%%Example 339%%%}
+*(*foo)
+{%%%Example 340%%%}
+*(*foo*)*
+{%%%Example 341%%%}
+*foo*bar
+{%%%Example 342%%%}
+_foo bar _
+{%%%Example 343%%%}
+_(_foo)
+{%%%Example 344%%%}
+_(_foo_)_
+{%%%Example 345%%%}
+_foo_bar
+{%%%Example 346%%%}
+_пристаням_стремятся
+{%%%Example 347%%%}
+_foo_bar_baz_
+{%%%Example 348%%%}
+_(bar)_.
+{%%%Example 349%%%}
+**foo bar**
+{%%%Example 350%%%}
+** foo bar**
+{%%%Example 351%%%}
+a**"foo"**
+{%%%Example 352%%%}
+foo**bar**
+{%%%Example 353%%%}
+__foo bar__
+{%%%Example 354%%%}
+__ foo bar__
+{%%%Example 355%%%}
+__
+foo bar__
+{%%%Example 356%%%}
+a__"foo"__
+{%%%Example 357%%%}
+foo__bar__
+{%%%Example 358%%%}
+5__6__78
+{%%%Example 359%%%}
+пристаням__стремятся__
+{%%%Example 360%%%}
+__foo, __bar__, baz__
+{%%%Example 361%%%}
+foo-__(bar)__
+{%%%Example 362%%%}
+**foo bar **
+{%%%Example 363%%%}
+**(**foo)
+{%%%Example 364%%%}
+*(**foo**)*
+{%%%Example 365%%%}
+**Gomphocarpus (*Gomphocarpus physocarpus*, syn.
+*Asclepias physocarpa*)**
+{%%%Example 366%%%}
+**foo "*bar*" foo**
+{%%%Example 367%%%}
+**foo**bar
+{%%%Example 368%%%}
+__foo bar __
+{%%%Example 369%%%}
+__(__foo)
+{%%%Example 370%%%}
+_(__foo__)_
+{%%%Example 371%%%}
+__foo__bar
+{%%%Example 372%%%}
+__пристаням__стремятся
+{%%%Example 373%%%}
+__foo__bar__baz__
+{%%%Example 374%%%}
+__(bar)__.
+{%%%Example 375%%%}
+*foo [bar](/url)*
+{%%%Example 376%%%}
+*foo
+bar*
+{%%%Example 377%%%}
+_foo __bar__ baz_
+{%%%Example 378%%%}
+_foo _bar_ baz_
+{%%%Example 379%%%}
+__foo_ bar_
+{%%%Example 380%%%}
+*foo *bar**
+{%%%Example 381%%%}
+*foo **bar** baz*
+{%%%Example 382%%%}
+*foo**bar**baz*
+{%%%Example 383%%%}
+***foo** bar*
+{%%%Example 384%%%}
+*foo **bar***
+{%%%Example 385%%%}
+*foo**bar***
+{%%%Example 386%%%}
+*foo **bar *baz* bim** bop*
+{%%%Example 387%%%}
+*foo [*bar*](/url)*
+{%%%Example 388%%%}
+** is not an empty emphasis
+{%%%Example 389%%%}
+**** is not an empty strong emphasis
+{%%%Example 390%%%}
+**foo [bar](/url)**
+{%%%Example 391%%%}
+**foo
+bar**
+{%%%Example 392%%%}
+__foo _bar_ baz__
+{%%%Example 393%%%}
+__foo __bar__ baz__
+{%%%Example 394%%%}
+____foo__ bar__
+{%%%Example 395%%%}
+**foo **bar****
+{%%%Example 396%%%}
+**foo *bar* baz**
+{%%%Example 397%%%}
+**foo*bar*baz**
+{%%%Example 398%%%}
+***foo* bar**
+{%%%Example 399%%%}
+**foo *bar***
+{%%%Example 400%%%}
+**foo *bar **baz**
+bim* bop**
+{%%%Example 401%%%}
+**foo [*bar*](/url)**
+{%%%Example 402%%%}
+__ is not an empty emphasis
+{%%%Example 403%%%}
+____ is not an empty strong emphasis
+{%%%Example 404%%%}
+foo ***
+{%%%Example 405%%%}
+foo *\**
+{%%%Example 406%%%}
+foo *_*
+{%%%Example 407%%%}
+foo *****
+{%%%Example 408%%%}
+foo **\***
+{%%%Example 409%%%}
+foo **_**
+{%%%Example 410%%%}
+**foo*
+{%%%Example 411%%%}
+*foo**
+{%%%Example 412%%%}
+***foo**
+{%%%Example 413%%%}
+****foo*
+{%%%Example 414%%%}
+**foo***
+{%%%Example 415%%%}
+*foo****
+{%%%Example 416%%%}
+foo ___
+{%%%Example 417%%%}
+foo _\__
+{%%%Example 418%%%}
+foo _*_
+{%%%Example 419%%%}
+foo _____
+{%%%Example 420%%%}
+foo __\___
+{%%%Example 421%%%}
+foo __*__
+{%%%Example 422%%%}
+__foo_
+{%%%Example 423%%%}
+_foo__
+{%%%Example 424%%%}
+___foo__
+{%%%Example 425%%%}
+____foo_
+{%%%Example 426%%%}
+__foo___
+{%%%Example 427%%%}
+_foo____
+{%%%Example 428%%%}
+**foo**
+{%%%Example 429%%%}
+*_foo_*
+{%%%Example 430%%%}
+__foo__
+{%%%Example 431%%%}
+_*foo*_
+{%%%Example 432%%%}
+****foo****
+{%%%Example 433%%%}
+____foo____
+{%%%Example 434%%%}
+******foo******
+{%%%Example 435%%%}
+***foo***
+{%%%Example 436%%%}
+_____foo_____
+{%%%Example 437%%%}
+*foo _bar* baz_
+{%%%Example 438%%%}
+**foo*bar**
+{%%%Example 439%%%}
+*foo __bar *baz bim__ bam*
+{%%%Example 440%%%}
+**foo **bar baz**
+{%%%Example 441%%%}
+*foo *bar baz*
+{%%%Example 442%%%}
+*[bar*](/url)
+{%%%Example 443%%%}
+_foo [bar_](/url)
+{%%%Example 444%%%}
+*<img src="foo" title="*"/>
+{%%%Example 445%%%}
+**<a href="**">
+{%%%Example 446%%%}
+__<a href="__">
+{%%%Example 447%%%}
+*a `*`*
+{%%%Example 448%%%}
+_a `_`_
+{%%%Example 449%%%}
+**a<http://foo.bar/?q=**>
+{%%%Example 450%%%}
+__a<http://foo.bar/?q=__>
+{%%%Example 451%%%}
+[link](/uri "title")
+{%%%Example 452%%%}
+[link](/uri)
+{%%%Example 453%%%}
+[link]()
+{%%%Example 454%%%}
+[link](<>)
+{%%%Example 455%%%}
+[link](/my uri)
+{%%%Example 456%%%}
+[link](</my uri>)
+{%%%Example 457%%%}
+[link](foo
+bar)
+{%%%Example 458%%%}
+[link](<foo
+bar>)
+{%%%Example 459%%%}
+[link](\(foo\))
+{%%%Example 460%%%}
+[link]((foo)and(bar))
+{%%%Example 461%%%}
+[link](foo(and(bar)))
+{%%%Example 462%%%}
+[link](foo(and\(bar\)))
+{%%%Example 463%%%}
+[link](<foo(and(bar))>)
+{%%%Example 464%%%}
+[link](foo\)\:)
+{%%%Example 465%%%}
+[link](#fragment)
+[link](http://example.com#fragment)
+[link](http://example.com?foo=3#frag)
+{%%%Example 466%%%}
+[link](foo\bar)
+{%%%Example 467%%%}
+[link](foo%20b&auml;)
+{%%%Example 468%%%}
+[link]("title")
+{%%%Example 469%%%}
+[link](/url "title")
+[link](/url 'title')
+[link](/url (title))
+{%%%Example 470%%%}
+[link](/url "title \"&quot;")
+{%%%Example 471%%%}
+[link](/url "title "and" title")
+{%%%Example 472%%%}
+[link](/url 'title "and" title')
+{%%%Example 473%%%}
+[link](   /uri
+  "title"  )
+{%%%Example 474%%%}
+[link] (/uri)
+{%%%Example 475%%%}
+[link [foo [bar]]](/uri)
+{%%%Example 476%%%}
+[link] bar](/uri)
+{%%%Example 477%%%}
+[link [bar](/uri)
+{%%%Example 478%%%}
+[link \[bar](/uri)
+{%%%Example 479%%%}
+[link *foo **bar** `#`*](/uri)
+{%%%Example 480%%%}
+[![moon](moon.jpg)](/uri)
+{%%%Example 481%%%}
+[foo [bar](/uri)](/uri)
+{%%%Example 482%%%}
+[foo *[bar [baz](/uri)](/uri)*](/uri)
+{%%%Example 483%%%}
+![[[foo](uri1)](uri2)](uri3)
+{%%%Example 484%%%}
+*[foo*](/uri)
+{%%%Example 485%%%}
+[foo *bar](baz*)
+{%%%Example 486%%%}
+*foo [bar* baz]
+{%%%Example 487%%%}
+[foo <bar attr="](baz)">
+{%%%Example 488%%%}
+[foo`](/uri)`
+{%%%Example 489%%%}
+[foo<http://example.com/?search=](uri)>
+{%%%Example 490%%%}
+[foo][bar490]
+{%%%Example 491%%%}
+[link [foo [bar]]][ref491]
+{%%%Example 492%%%}
+[link \[bar][ref492]
+{%%%Example 493%%%}
+[link *foo **bar** `#`*][ref493]
+{%%%Example 494%%%}
+[![moon](moon.jpg)][ref494]
+{%%%Example 495%%%}
+[foo [bar](/uri)][ref495]
+{%%%Example 496%%%}
+[foo *bar [baz][ref496]*][ref496]
+{%%%Example 497%%%}
+*[foo*][ref497]
+{%%%Example 498%%%}
+[foo *bar][ref498]
+{%%%Example 499%%%}
+[foo <bar attr="][ref]">
+{%%%Example 500%%%}
+[foo`][ref]`
+{%%%Example 501%%%}
+[foo<http://example.com/?search=][ref]>
+{%%%Example 502%%%}
+[foo][BaR502]
+{%%%Example 503%%%}
+[Толпой][Толпой503] is a Russian word.
+{%%%Example 505%%%}
+[foo] [bar505]
+{%%%Example 506%%%}
+[foo]
+[bar506]
+{%%%Example 508%%%}
+[bar][foo\!]
+{%%%Example 513%%%}
+[bar\\513]
+{%%%Example 514%%%}
+[]
+{%%%Example 515%%%}
+[
+]
+{%%%Example 516%%%}
+[foo516][]
+{%%%Example 517%%%}
+[*foo* bar517][]
+{%%%Example 518%%%}
+[Foo518][]
+{%%%Example 519%%%}
+[foo519] 
+[]
+{%%%Example 520%%%}
+[foo520]
+{%%%Example 521%%%}
+[*foo* bar521]
+{%%%Example 522%%%}
+[[*foo* bar522]]
+{%%%Example 523%%%}
+[[bar [foo523]
+{%%%Example 524%%%}
+[Foo524]
+{%%%Example 525%%%}
+[foo525] bar
+{%%%Example 526%%%}
+\[foo526]
+{%%%Example 527%%%}
+*[foo*527]
+{%%%Example 528%%%}
+[foo528][bar528]
+{%%%Example 529%%%}
+[foo][bar][baz529]
+{%%%Example 530%%%}
+[foo][bar530][baz530]
+{%%%Example 531%%%}
+[foo531][bar][baz531]
+{%%%Example 532%%%}
+![foo532](/url "title")
+{%%%Example 533%%%}
+![foo *bar*533]
+{%%%Example 534%%%}
+![foo ![bar](/url)](/url2)
+{%%%Example 535%%%}
+![foo [bar](/url)](/url2)
+{%%%Example 536%%%}
+![foo *bar*536][]
+{%%%Example 537%%%}
+![foo *bar*][foobar537]
+{%%%Example 538%%%}
+![foo](train.jpg)
+{%%%Example 539%%%}
+My ![foo bar](/path/to/train.jpg  "title"   )
+{%%%Example 540%%%}
+![foo](<url>)
+{%%%Example 541%%%}
+![](/url)
+{%%%Example 542%%%}
+![foo][bar542]
+{%%%Example 543%%%}
+![foo][bar543]
+{%%%Example 544%%%}
+![foo544][]
+{%%%Example 545%%%}
+![*foo* bar545][]
+{%%%Example 546%%%}
+![Foo546][]
+{%%%Example 547%%%}
+![foo547] 
+[]
+{%%%Example 548%%%}
+![foo548]
+{%%%Example 549%%%}
+![*foo* bar549]
+{%%%Example 551%%%}
+![Foo551]
+{%%%Example 552%%%}
+\!\[foo552]
+{%%%Example 553%%%}
+\![foo553]
+{%%%Example 554%%%}
+<http://foo.bar.baz>
+{%%%Example 555%%%}
+<http://foo.bar.baz/test?q=hello&id=22&boolean>
+{%%%Example 556%%%}
+<irc://foo.bar:2233/baz>
+{%%%Example 557%%%}
+<MAILTO:FOO@BAR.BAZ>
+{%%%Example 558%%%}
+<a+b+c:d>
+{%%%Example 559%%%}
+<made-up-scheme://foo,bar>
+{%%%Example 560%%%}
+<http://../>
+{%%%Example 561%%%}
+<localhost:5001/foo>
+{%%%Example 562%%%}
+<http://foo.bar/baz bim>
+{%%%Example 563%%%}
+<http://example.com/\[\>
+{%%%Example 564%%%}
+<foo@bar.example.com>
+{%%%Example 565%%%}
+<foo+special@Bar.baz-bar0.com>
+{%%%Example 566%%%}
+<foo\+@bar.example.com>
+{%%%Example 567%%%}
+<>
+{%%%Example 568%%%}
+< http://foo.bar >
+{%%%Example 569%%%}
+<m:abc>
+{%%%Example 570%%%}
+<foo.bar.baz>
+{%%%Example 571%%%}
+http://example.com
+{%%%Example 572%%%}
+foo@bar.example.com
+{%%%Example 573%%%}
+<a><bab><c2c>
+{%%%Example 574%%%}
+<a/><b2/>
+{%%%Example 575%%%}
+<a  /><b2
+data="foo" >
+{%%%Example 576%%%}
+<a foo="bar" bam = 'baz <em>"</em>'
+_boolean zoop:33=zoop:33 />
+{%%%Example 577%%%}
+Foo <responsive-image src="foo.jpg" />
+{%%%Example 578%%%}
+<33> <__>
+{%%%Example 579%%%}
+<a h*#ref="hi">
+{%%%Example 580%%%}
+<a href="hi'> <a href=hi'>
+{%%%Example 581%%%}
+< a><
+foo><bar/ >
+{%%%Example 582%%%}
+<a href='bar'title=title>
+{%%%Example 583%%%}
+</a></foo >
+{%%%Example 584%%%}
+</a href="foo">
+{%%%Example 585%%%}
+foo <!-- this is a
+comment - with hyphen -->
+{%%%Example 586%%%}
+foo <!-- not a comment -- two hyphens -->
+{%%%Example 587%%%}
+foo <!--> foo -->
+foo <!-- foo--->
+{%%%Example 588%%%}
+foo <?php echo $a; ?>
+{%%%Example 589%%%}
+foo <!ELEMENT br EMPTY>
+{%%%Example 590%%%}
+foo <![CDATA[>&<]]>
+{%%%Example 591%%%}
+foo <a href="&ouml;">
+{%%%Example 592%%%}
+foo <a href="\*">
+{%%%Example 593%%%}
+<a href="\"">
+{%%%Example 594%%%}
+foo  
+baz
+{%%%Example 595%%%}
+foo\
+baz
+{%%%Example 596%%%}
+foo       
+baz
+{%%%Example 597%%%}
+foo  
+     bar
+{%%%Example 598%%%}
+foo\
+     bar
+{%%%Example 599%%%}
+*foo  
+bar*
+{%%%Example 600%%%}
+*foo\
+bar*
+{%%%Example 601%%%}
+`code  
+span`
+{%%%Example 602%%%}
+`code\
+span`
+{%%%Example 603%%%}
+<a href="foo  
+bar">
+{%%%Example 604%%%}
+<a href="foo\
+bar">
+{%%%Example 605%%%}
+foo\
+{%%%Example 606%%%}
+foo  
+{%%%Example 609%%%}
+foo
+baz
+{%%%Example 610%%%}
+foo 
+ baz
+{%%%Example 611%%%}
+hello $.;'there
+{%%%Example 612%%%}
+Foo χρῆν
+{%%%Example 613%%%}
+Multiple     spaces

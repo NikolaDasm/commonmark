@@ -1,0 +1,2256 @@
+{%%%Example 1%%%}
+<pre><code>foo	baz		bim
+</code></pre>
+{%%%Example 2%%%}
+<pre><code>foo	baz		bim
+</code></pre>
+{%%%Example 3%%%}
+<pre><code>a	a
+ὐ	a
+</code></pre>
+{%%%Example 4%%%}
+<ul>
+<li>
+<p>foo</p>
+<p>bar</p>
+</li>
+</ul>
+{%%%Example 5%%%}
+<ul>
+<li>
+<p>foo</p>
+<pre><code>  bar
+</code></pre>
+</li>
+</ul>
+{%%%Example 6%%%}
+<blockquote>
+<pre><code>  foo
+</code></pre>
+</blockquote>
+{%%%Example 7%%%}
+<ul>
+<li>
+<pre><code>  foo
+</code></pre>
+</li>
+</ul>
+{%%%Example 8%%%}
+<pre><code>foo
+bar
+</code></pre>
+{%%%Example 9%%%}
+<ul>
+<li>foo
+<ul>
+<li>bar
+<ul>
+<li>baz</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+{%%%Example 10%%%}
+<ul>
+<li>`one</li>
+<li>two`</li>
+</ul>
+{%%%Example 11%%%}
+<hr />
+<hr />
+<hr />
+{%%%Example 12%%%}
+<p>+++</p>
+{%%%Example 13%%%}
+<p>===</p>
+{%%%Example 14%%%}
+<p>--
+**
+__</p>
+{%%%Example 15%%%}
+<hr />
+<hr />
+<hr />
+{%%%Example 16%%%}
+<pre><code>***
+</code></pre>
+{%%%Example 17%%%}
+<p>Foo
+***</p>
+{%%%Example 18%%%}
+<hr />
+{%%%Example 19%%%}
+<hr />
+{%%%Example 20%%%}
+<hr />
+{%%%Example 21%%%}
+<hr />
+{%%%Example 22%%%}
+<hr />
+{%%%Example 23%%%}
+<p>_ _ _ _ a</p>
+<p>a------</p>
+<p>---a---</p>
+{%%%Example 24%%%}
+<p><em>-</em></p>
+{%%%Example 25%%%}
+<ul>
+<li>foo</li>
+</ul>
+<hr />
+<ul>
+<li>bar</li>
+</ul>
+{%%%Example 26%%%}
+<p>Foo</p>
+<hr />
+<p>bar</p>
+{%%%Example 27%%%}
+<h2>Foo</h2>
+<p>bar</p>
+{%%%Example 28%%%}
+<ul>
+<li>Foo</li>
+</ul>
+<hr />
+<ul>
+<li>Bar</li>
+</ul>
+{%%%Example 29%%%}
+<ul>
+<li>Foo</li>
+<li>
+<hr />
+</li>
+</ul>
+{%%%Example 30%%%}
+<h1>foo</h1>
+<h2>foo</h2>
+<h3>foo</h3>
+<h4>foo</h4>
+<h5>foo</h5>
+<h6>foo</h6>
+{%%%Example 31%%%}
+<p>####### foo</p>
+{%%%Example 32%%%}
+<p>#5 bolt</p>
+<p>#hashtag</p>
+{%%%Example 33%%%}
+<p>#	foo</p>
+{%%%Example 34%%%}
+<p>## foo</p>
+{%%%Example 35%%%}
+<h1>foo <em>bar</em> *baz*</h1>
+{%%%Example 36%%%}
+<h1>foo</h1>
+{%%%Example 37%%%}
+<h3>foo</h3>
+<h2>foo</h2>
+<h1>foo</h1>
+{%%%Example 38%%%}
+<pre><code># foo
+</code></pre>
+{%%%Example 39%%%}
+<p>foo
+# bar</p>
+{%%%Example 40%%%}
+<h2>foo</h2>
+<h3>bar</h3>
+{%%%Example 41%%%}
+<h1>foo</h1>
+<h5>foo</h5>
+{%%%Example 42%%%}
+<h3>foo</h3>
+{%%%Example 43%%%}
+<h3>foo ### b</h3>
+{%%%Example 44%%%}
+<h1>foo#</h1>
+{%%%Example 45%%%}
+<h3>foo ###</h3>
+<h2>foo ###</h2>
+<h1>foo #</h1>
+{%%%Example 46%%%}
+<hr />
+<h2>foo</h2>
+<hr />
+{%%%Example 47%%%}
+<p>Foo bar</p>
+<h1>baz</h1>
+<p>Bar foo</p>
+{%%%Example 48%%%}
+<h2></h2>
+<h1></h1>
+<h3></h3>
+{%%%Example 49%%%}
+<h1>Foo <em>bar</em></h1>
+<h2>Foo <em>bar</em></h2>
+{%%%Example 50%%%}
+<h1>Foo <em>bar
+baz</em></h1>
+{%%%Example 51%%%}
+<h2>Foo</h2>
+<h1>Foo</h1>
+{%%%Example 52%%%}
+<h2>Foo</h2>
+<h2>Foo</h2>
+<h1>Foo</h1>
+{%%%Example 53%%%}
+<pre><code>Foo
+---
+
+Foo
+</code></pre>
+<hr />
+{%%%Example 54%%%}
+<h2>Foo</h2>
+{%%%Example 55%%%}
+<p>Foo
+---</p>
+{%%%Example 56%%%}
+<p>Foo
+= =</p>
+<p>Foo</p>
+<hr />
+{%%%Example 57%%%}
+<h2>Foo</h2>
+{%%%Example 58%%%}
+<h2>Foo\</h2>
+{%%%Example 59%%%}
+<h2>`Foo</h2>
+<p>`</p>
+<h2>&lt;a title=&quot;a lot</h2>
+<p>of dashes&quot;/&gt;</p>
+{%%%Example 60%%%}
+<blockquote>
+<p>Foo</p>
+</blockquote>
+<hr />
+{%%%Example 61%%%}
+<blockquote>
+<p>foo
+bar
+===</p>
+</blockquote>
+{%%%Example 62%%%}
+<ul>
+<li>Foo</li>
+</ul>
+<hr />
+{%%%Example 63%%%}
+<h2>Foo
+Bar</h2>
+{%%%Example 64%%%}
+<hr />
+<h2>Foo</h2>
+<h2>Bar</h2>
+<p>Baz</p>
+{%%%Example 65%%%}
+<p>====</p>
+{%%%Example 66%%%}
+<hr />
+<hr />
+{%%%Example 67%%%}
+<ul>
+<li>foo</li>
+</ul>
+<hr />
+{%%%Example 68%%%}
+<pre><code>foo
+</code></pre>
+<hr />
+{%%%Example 69%%%}
+<blockquote>
+<p>foo</p>
+</blockquote>
+<hr />
+{%%%Example 70%%%}
+<h2>&gt; foo</h2>
+{%%%Example 71%%%}
+<p>Foo</p>
+<h2>bar</h2>
+<p>baz</p>
+{%%%Example 72%%%}
+<p>Foo
+bar</p>
+<hr />
+<p>baz</p>
+{%%%Example 73%%%}
+<p>Foo
+bar</p>
+<hr />
+<p>baz</p>
+{%%%Example 74%%%}
+<p>Foo
+bar
+---
+baz</p>
+{%%%Example 75%%%}
+<pre><code>a simple
+  indented code block
+</code></pre>
+{%%%Example 76%%%}
+<ul>
+<li>
+<p>foo</p>
+<p>bar</p>
+</li>
+</ul>
+{%%%Example 77%%%}
+<ol>
+<li>
+<p>foo</p>
+<ul>
+<li>bar</li>
+</ul>
+</li>
+</ol>
+{%%%Example 78%%%}
+<pre><code>&lt;a/&gt;
+*hi*
+
+- one
+</code></pre>
+{%%%Example 79%%%}
+<pre><code>chunk1
+
+chunk2
+
+
+
+chunk3
+</code></pre>
+{%%%Example 80%%%}
+<pre><code>chunk1
+  
+  chunk2
+</code></pre>
+{%%%Example 81%%%}
+<p>Foo
+bar</p>
+{%%%Example 82%%%}
+<pre><code>foo
+</code></pre>
+<p>bar</p>
+{%%%Example 83%%%}
+<h1>Heading</h1>
+<pre><code>foo
+</code></pre>
+<h2>Heading</h2>
+<pre><code>foo
+</code></pre>
+<hr />
+{%%%Example 84%%%}
+<pre><code>    foo
+bar
+</code></pre>
+{%%%Example 85%%%}
+<pre><code>foo
+</code></pre>
+{%%%Example 86%%%}
+<pre><code>foo  
+</code></pre>
+{%%%Example 87%%%}
+<pre><code>&lt;
+ &gt;
+</code></pre>
+{%%%Example 88%%%}
+<pre><code>&lt;
+ &gt;
+</code></pre>
+{%%%Example 89%%%}
+<pre><code>aaa
+~~~
+</code></pre>
+{%%%Example 90%%%}
+<pre><code>aaa
+```
+</code></pre>
+{%%%Example 91%%%}
+<pre><code>aaa
+```
+</code></pre>
+{%%%Example 92%%%}
+<pre><code>aaa
+~~~
+</code></pre>
+{%%%Example 93%%%}
+<pre><code></code></pre>
+{%%%Example 94%%%}
+<pre><code>
+```
+aaa
+</code></pre>
+{%%%Example 95%%%}
+<blockquote>
+<pre><code>aaa
+</code></pre>
+</blockquote>
+<p>bbb</p>
+{%%%Example 96%%%}
+<pre><code>
+  
+</code></pre>
+{%%%Example 97%%%}
+<pre><code></code></pre>
+{%%%Example 98%%%}
+<pre><code>aaa
+aaa
+</code></pre>
+{%%%Example 99%%%}
+<pre><code>aaa
+aaa
+aaa
+</code></pre>
+{%%%Example 100%%%}
+<pre><code>aaa
+ aaa
+aaa
+</code></pre>
+{%%%Example 101%%%}
+<pre><code>```
+aaa
+```
+</code></pre>
+{%%%Example 102%%%}
+<pre><code>aaa
+</code></pre>
+{%%%Example 103%%%}
+<pre><code>aaa
+</code></pre>
+{%%%Example 104%%%}
+<pre><code>aaa
+    ```
+</code></pre>
+{%%%Example 105%%%}
+<p><code></code>
+aaa</p>
+{%%%Example 106%%%}
+<pre><code>aaa
+~~~ ~~
+</code></pre>
+{%%%Example 107%%%}
+<p>foo</p>
+<pre><code>bar
+</code></pre>
+<p>baz</p>
+{%%%Example 108%%%}
+<h2>foo</h2>
+<pre><code>bar
+</code></pre>
+<h1>baz</h1>
+{%%%Example 109%%%}
+<pre><code class="language-ruby">def foo(x)
+  return 3
+end
+</code></pre>
+{%%%Example 110%%%}
+<pre><code class="language-ruby">def foo(x)
+  return 3
+end
+</code></pre>
+{%%%Example 111%%%}
+<pre><code class="language-;"></code></pre>
+{%%%Example 112%%%}
+<p><code>aa</code>
+foo</p>
+{%%%Example 113%%%}
+<pre><code>``` aaa
+</code></pre>
+{%%%Example 114%%%}
+<table>
+  <tr>
+    <td>
+           hi
+    </td>
+  </tr>
+</table>
+<p>okay.</p>
+{%%%Example 115%%%}
+ <div>
+  *hello*
+         <foo><a>
+{%%%Example 116%%%}
+</div>
+*foo*
+{%%%Example 117%%%}
+<DIV CLASS="foo">
+<p><em>Markdown</em></p>
+</DIV>
+{%%%Example 118%%%}
+<div id="foo"
+  class="bar">
+</div>
+{%%%Example 119%%%}
+<div id="foo" class="bar
+  baz">
+</div>
+{%%%Example 120%%%}
+<div>
+*foo*
+<p><em>bar</em></p>
+{%%%Example 121%%%}
+<div id="foo"
+*hi*
+{%%%Example 122%%%}
+<div class
+foo
+{%%%Example 123%%%}
+<div *???-&&&-<---
+*foo*
+{%%%Example 124%%%}
+<div><a href="bar">*foo*</a></div>
+{%%%Example 125%%%}
+<table><tr><td>
+foo
+</td></tr></table>
+{%%%Example 126%%%}
+<div></div>
+``` c
+int x = 33;
+```
+{%%%Example 127%%%}
+<a href="foo">
+*bar*
+</a>
+{%%%Example 128%%%}
+<Warning>
+*bar*
+</Warning>
+{%%%Example 129%%%}
+<i class="foo">
+*bar*
+</i>
+{%%%Example 130%%%}
+</ins>
+*bar*
+{%%%Example 131%%%}
+<del>
+*foo*
+</del>
+{%%%Example 132%%%}
+<del>
+<p><em>foo</em></p>
+</del>
+{%%%Example 133%%%}
+<p><del><em>foo</em></del></p>
+{%%%Example 134%%%}
+<pre language="haskell"><code>
+import Text.HTML.TagSoup
+
+main :: IO ()
+main = print $ parseTags tags
+</code></pre>
+{%%%Example 135%%%}
+<script type="text/javascript">
+// JavaScript example
+
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script>
+{%%%Example 136%%%}
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+{%%%Example 137%%%}
+<style
+  type="text/css">
+
+foo
+{%%%Example 138%%%}
+<blockquote>
+<div>
+foo
+</blockquote>
+<p>bar</p>
+{%%%Example 139%%%}
+<ul>
+<li>
+<div>
+</li>
+<li>foo</li>
+</ul>
+{%%%Example 140%%%}
+<style>p{color:red;}</style>
+<p><em>foo</em></p>
+{%%%Example 141%%%}
+<!-- foo -->*bar*
+<p><em>baz</em></p>
+{%%%Example 142%%%}
+<script>
+foo
+</script>1. *bar*
+{%%%Example 143%%%}
+<!-- Foo
+
+bar
+   baz -->
+{%%%Example 144%%%}
+<?php
+
+  echo '>';
+
+?>
+{%%%Example 145%%%}
+<!DOCTYPE html>
+{%%%Example 146%%%}
+<![CDATA[
+function matchwo(a,b)
+{
+  if (a < b && a < 0) then {
+    return 1;
+
+  } else {
+
+    return 0;
+  }
+}
+]]>
+{%%%Example 147%%%}
+  <!-- foo -->
+<pre><code>&lt;!-- foo --&gt;
+</code></pre>
+{%%%Example 148%%%}
+  <div>
+<pre><code>&lt;div&gt;
+</code></pre>
+{%%%Example 149%%%}
+<p>Foo</p>
+<div>
+bar
+</div>
+{%%%Example 150%%%}
+<div>
+bar
+</div>
+*foo*
+{%%%Example 151%%%}
+<p>Foo
+<a href="bar">
+baz</p>
+{%%%Example 152%%%}
+<div>
+<p><em>Emphasized</em> text.</p>
+</div>
+{%%%Example 153%%%}
+<div>
+*Emphasized* text.
+</div>
+{%%%Example 154%%%}
+<table>
+<tr>
+<td>
+Hi
+</td>
+</tr>
+</table>
+{%%%Example 155%%%}
+<table>
+  <tr>
+<pre><code>&lt;td&gt;
+  Hi
+&lt;/td&gt;
+</code></pre>
+  </tr>
+</table>
+{%%%Example 156%%%}
+<p><a href="/url" title="title">foo</a></p>
+{%%%Example 157%%%}
+<p><a href="/url" title="the title">foo</a></p>
+{%%%Example 158%%%}
+<p><a href="my_(url)" title="title (with parens)">Foo*bar]</a></p>
+{%%%Example 159%%%}
+<p><a href="my%20url" title="title">Foo bar</a></p>
+{%%%Example 160%%%}
+<p><a href="/url" title="
+title
+line1
+line2
+">foo</a></p>
+{%%%Example 161%%%}
+<p>[foo]: /url 'title</p>
+<p>with blank line'</p>
+<p>[foo]</p>
+{%%%Example 162%%%}
+<p><a href="/url">foo</a></p>
+{%%%Example 163%%%}
+<p>[foo]:</p>
+<p>[foo]</p>
+{%%%Example 164%%%}
+<p><a href="/url%5Cbar*baz" title="foo&quot;bar\baz">foo</a></p>
+{%%%Example 165%%%}
+<p><a href="url">foo</a></p>
+{%%%Example 166%%%}
+<p><a href="first">foo</a></p>
+{%%%Example 167%%%}
+<p><a href="/url">Foo</a></p>
+{%%%Example 168%%%}
+<p><a href="/%CF%86%CE%BF%CF%85">αγω</a></p>
+{%%%Example 170%%%}
+<p>bar</p>
+{%%%Example 171%%%}
+<p>[foo]: /url &quot;title&quot; ok</p>
+{%%%Example 172%%%}
+<p>&quot;title&quot; ok</p>
+{%%%Example 173%%%}
+<pre><code>[foo]: /url &quot;title&quot;
+</code></pre>
+<p>[foo]</p>
+{%%%Example 174%%%}
+<pre><code>[foo]: /url
+</code></pre>
+<p>[foo]</p>
+{%%%Example 175%%%}
+<p>Foo
+[bar]: /baz</p>
+<p>[bar]</p>
+{%%%Example 176%%%}
+<h1><a href="/url">Foo</a></h1>
+<blockquote>
+<p>bar</p>
+</blockquote>
+{%%%Example 177%%%}
+<p><a href="/foo-url" title="foo">foo</a>,
+<a href="/bar-url" title="bar">bar</a>,
+<a href="/baz-url">baz</a></p>
+{%%%Example 178%%%}
+<p><a href="/url">foo</a></p>
+<blockquote>
+</blockquote>
+{%%%Example 179%%%}
+<p>aaa</p>
+<p>bbb</p>
+{%%%Example 180%%%}
+<p>aaa
+bbb</p>
+<p>ccc
+ddd</p>
+{%%%Example 181%%%}
+<p>aaa</p>
+<p>bbb</p>
+{%%%Example 182%%%}
+<p>aaa
+bbb</p>
+{%%%Example 183%%%}
+<p>aaa
+bbb
+ccc</p>
+{%%%Example 184%%%}
+<p>aaa
+bbb</p>
+{%%%Example 185%%%}
+<pre><code>aaa
+</code></pre>
+<p>bbb</p>
+{%%%Example 186%%%}
+<p>aaa<br />
+bbb</p>
+{%%%Example 187%%%}
+<p>aaa</p>
+<h1>aaa</h1>
+{%%%Example 188%%%}
+<blockquote>
+<h1>Foo</h1>
+<p>bar
+baz</p>
+</blockquote>
+{%%%Example 189%%%}
+<blockquote>
+<h1>Foo</h1>
+<p>bar
+baz</p>
+</blockquote>
+{%%%Example 190%%%}
+<blockquote>
+<h1>Foo</h1>
+<p>bar
+baz</p>
+</blockquote>
+{%%%Example 191%%%}
+<pre><code>&gt; # Foo
+&gt; bar
+&gt; baz
+</code></pre>
+{%%%Example 192%%%}
+<blockquote>
+<h1>Foo</h1>
+<p>bar
+baz</p>
+</blockquote>
+{%%%Example 193%%%}
+<blockquote>
+<p>bar
+baz
+foo</p>
+</blockquote>
+{%%%Example 194%%%}
+<blockquote>
+<p>foo</p>
+</blockquote>
+<hr />
+{%%%Example 195%%%}
+<blockquote>
+<ul>
+<li>foo</li>
+</ul>
+</blockquote>
+<ul>
+<li>bar</li>
+</ul>
+{%%%Example 196%%%}
+<blockquote>
+<pre><code>foo
+</code></pre>
+</blockquote>
+<pre><code>bar
+</code></pre>
+{%%%Example 197%%%}
+<blockquote>
+<pre><code></code></pre>
+</blockquote>
+<p>foo</p>
+<pre><code></code></pre>
+{%%%Example 198%%%}
+<blockquote>
+<p>foo
+- bar</p>
+</blockquote>
+{%%%Example 199%%%}
+<blockquote>
+</blockquote>
+{%%%Example 200%%%}
+<blockquote>
+</blockquote>
+{%%%Example 201%%%}
+<blockquote>
+<p>foo</p>
+</blockquote>
+{%%%Example 202%%%}
+<blockquote>
+<p>foo</p>
+</blockquote>
+<blockquote>
+<p>bar</p>
+</blockquote>
+{%%%Example 203%%%}
+<blockquote>
+<p>foo
+bar</p>
+</blockquote>
+{%%%Example 204%%%}
+<blockquote>
+<p>foo</p>
+<p>bar</p>
+</blockquote>
+{%%%Example 205%%%}
+<p>foo</p>
+<blockquote>
+<p>bar</p>
+</blockquote>
+{%%%Example 206%%%}
+<blockquote>
+<p>aaa</p>
+</blockquote>
+<hr />
+<blockquote>
+<p>bbb</p>
+</blockquote>
+{%%%Example 207%%%}
+<blockquote>
+<p>bar
+baz</p>
+</blockquote>
+{%%%Example 208%%%}
+<blockquote>
+<p>bar</p>
+</blockquote>
+<p>baz</p>
+{%%%Example 209%%%}
+<blockquote>
+<p>bar</p>
+</blockquote>
+<p>baz</p>
+{%%%Example 210%%%}
+<blockquote>
+<blockquote>
+<blockquote>
+<p>foo
+bar</p>
+</blockquote>
+</blockquote>
+</blockquote>
+{%%%Example 211%%%}
+<blockquote>
+<blockquote>
+<blockquote>
+<p>foo
+bar
+baz</p>
+</blockquote>
+</blockquote>
+</blockquote>
+{%%%Example 212%%%}
+<blockquote>
+<pre><code>code
+</code></pre>
+</blockquote>
+<blockquote>
+<p>not code</p>
+</blockquote>
+{%%%Example 213%%%}
+<p>A paragraph
+with two lines.</p>
+<pre><code>indented code
+</code></pre>
+<blockquote>
+<p>A block quote.</p>
+</blockquote>
+{%%%Example 214%%%}
+<ol>
+<li>
+<p>A paragraph
+with two lines.</p>
+<pre><code>indented code
+</code></pre>
+<blockquote>
+<p>A block quote.</p>
+</blockquote>
+</li>
+</ol>
+{%%%Example 215%%%}
+<ul>
+<li>one</li>
+</ul>
+<p>two</p>
+{%%%Example 216%%%}
+<ul>
+<li>
+<p>one</p>
+<p>two</p>
+</li>
+</ul>
+{%%%Example 217%%%}
+<ul>
+<li>one</li>
+</ul>
+<pre><code> two
+</code></pre>
+{%%%Example 218%%%}
+<ul>
+<li>
+<p>one</p>
+<p>two</p>
+</li>
+</ul>
+{%%%Example 219%%%}
+<blockquote>
+<blockquote>
+<ol>
+<li>
+<p>one</p>
+<p>two</p>
+</li>
+</ol>
+</blockquote>
+</blockquote>
+{%%%Example 220%%%}
+<blockquote>
+<blockquote>
+<ul>
+<li>one</li>
+</ul>
+<p>two</p>
+</blockquote>
+</blockquote>
+{%%%Example 221%%%}
+<p>-one</p>
+<p>2.two</p>
+{%%%Example 222%%%}
+<ul>
+<li>
+<p>foo</p>
+<p>bar</p>
+</li>
+<li>
+<p>foo</p>
+</li>
+</ul>
+<p>bar</p>
+<ul>
+<li>
+<pre><code>foo
+
+
+bar
+</code></pre>
+</li>
+<li>
+<p>baz</p>
+<ul>
+<li>
+<pre><code>foo
+
+
+bar
+</code></pre>
+</li>
+</ul>
+</li>
+</ul>
+{%%%Example 223%%%}
+<ol>
+<li>
+<p>foo</p>
+<pre><code>bar
+</code></pre>
+<p>baz</p>
+<blockquote>
+<p>bam</p>
+</blockquote>
+</li>
+</ol>
+{%%%Example 224%%%}
+<ul>
+<li>
+<p>Foo</p>
+<pre><code>bar
+
+baz
+</code></pre>
+</li>
+</ul>
+{%%%Example 225%%%}
+<ul>
+<li>
+<p>Foo</p>
+<pre><code>bar
+</code></pre>
+</li>
+</ul>
+<pre><code>  baz
+</code></pre>
+{%%%Example 226%%%}
+<ol start="123456789">
+<li>ok</li>
+</ol>
+{%%%Example 227%%%}
+<p>1234567890. not ok</p>
+{%%%Example 228%%%}
+<ol start="0">
+<li>ok</li>
+</ol>
+{%%%Example 229%%%}
+<ol start="3">
+<li>ok</li>
+</ol>
+{%%%Example 230%%%}
+<p>-1. not ok</p>
+{%%%Example 231%%%}
+<ul>
+<li>
+<p>foo</p>
+<pre><code>bar
+</code></pre>
+</li>
+</ul>
+{%%%Example 232%%%}
+<ol start="10">
+<li>
+<p>foo</p>
+<pre><code>bar
+</code></pre>
+</li>
+</ol>
+{%%%Example 233%%%}
+<pre><code>indented code
+</code></pre>
+<p>paragraph</p>
+<pre><code>more code
+</code></pre>
+{%%%Example 234%%%}
+<ol>
+<li>
+<pre><code>indented code
+</code></pre>
+<p>paragraph</p>
+<pre><code>more code
+</code></pre>
+</li>
+</ol>
+{%%%Example 235%%%}
+<ol>
+<li>
+<pre><code> indented code
+</code></pre>
+<p>paragraph</p>
+<pre><code>more code
+</code></pre>
+</li>
+</ol>
+{%%%Example 236%%%}
+<p>foo</p>
+<p>bar</p>
+{%%%Example 237%%%}
+<ul>
+<li>foo</li>
+</ul>
+<p>bar</p>
+{%%%Example 238%%%}
+<ul>
+<li>
+<p>foo</p>
+<p>bar</p>
+</li>
+</ul>
+{%%%Example 239%%%}
+<ul>
+<li>foo</li>
+<li>
+<pre><code>bar
+</code></pre>
+</li>
+<li>
+<pre><code>baz
+</code></pre>
+</li>
+</ul>
+{%%%Example 240%%%}
+<ul>
+<li></li>
+</ul>
+<p>foo</p>
+{%%%Example 241%%%}
+<ul>
+<li>foo</li>
+<li></li>
+<li>bar</li>
+</ul>
+{%%%Example 242%%%}
+<ul>
+<li>foo</li>
+<li></li>
+<li>bar</li>
+</ul>
+{%%%Example 243%%%}
+<ol>
+<li>foo</li>
+<li></li>
+<li>bar</li>
+</ol>
+{%%%Example 244%%%}
+<ul>
+<li></li>
+</ul>
+{%%%Example 245%%%}
+<ol>
+<li>
+<p>A paragraph
+with two lines.</p>
+<pre><code>indented code
+</code></pre>
+<blockquote>
+<p>A block quote.</p>
+</blockquote>
+</li>
+</ol>
+{%%%Example 246%%%}
+<ol>
+<li>
+<p>A paragraph
+with two lines.</p>
+<pre><code>indented code
+</code></pre>
+<blockquote>
+<p>A block quote.</p>
+</blockquote>
+</li>
+</ol>
+{%%%Example 247%%%}
+<ol>
+<li>
+<p>A paragraph
+with two lines.</p>
+<pre><code>indented code
+</code></pre>
+<blockquote>
+<p>A block quote.</p>
+</blockquote>
+</li>
+</ol>
+{%%%Example 248%%%}
+<pre><code>1.  A paragraph
+    with two lines.
+
+        indented code
+
+    &gt; A block quote.
+</code></pre>
+{%%%Example 249%%%}
+<ol>
+<li>
+<p>A paragraph
+with two lines.</p>
+<pre><code>indented code
+</code></pre>
+<blockquote>
+<p>A block quote.</p>
+</blockquote>
+</li>
+</ol>
+{%%%Example 250%%%}
+<ol>
+<li>A paragraph
+with two lines.</li>
+</ol>
+{%%%Example 251%%%}
+<blockquote>
+<ol>
+<li>
+<blockquote>
+<p>Blockquote
+continued here.</p>
+</blockquote>
+</li>
+</ol>
+</blockquote>
+{%%%Example 252%%%}
+<blockquote>
+<ol>
+<li>
+<blockquote>
+<p>Blockquote
+continued here.</p>
+</blockquote>
+</li>
+</ol>
+</blockquote>
+{%%%Example 253%%%}
+<ul>
+<li>foo
+<ul>
+<li>bar
+<ul>
+<li>baz</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+{%%%Example 254%%%}
+<ul>
+<li>foo</li>
+<li>bar</li>
+<li>baz</li>
+</ul>
+{%%%Example 255%%%}
+<ol start="10">
+<li>foo
+<ul>
+<li>bar</li>
+</ul>
+</li>
+</ol>
+{%%%Example 256%%%}
+<ol start="10">
+<li>foo</li>
+</ol>
+<ul>
+<li>bar</li>
+</ul>
+{%%%Example 257%%%}
+<ul>
+<li>
+<ul>
+<li>foo</li>
+</ul>
+</li>
+</ul>
+{%%%Example 258%%%}
+<ol>
+<li>
+<ul>
+<li>
+<ol start="2">
+<li>foo</li>
+</ol>
+</li>
+</ul>
+</li>
+</ol>
+{%%%Example 259%%%}
+<ul>
+<li>
+<h1>Foo</h1>
+</li>
+<li>
+<h2>Bar</h2>
+baz</li>
+</ul>
+{%%%Example 260%%%}
+<ul>
+<li>foo</li>
+<li>bar</li>
+</ul>
+<ul>
+<li>baz</li>
+</ul>
+{%%%Example 261%%%}
+<ol>
+<li>foo</li>
+<li>bar</li>
+</ol>
+<ol start="3">
+<li>baz</li>
+</ol>
+{%%%Example 262%%%}
+<p>Foo</p>
+<ul>
+<li>bar</li>
+<li>baz</li>
+</ul>
+{%%%Example 263%%%}
+<p>The number of windows in my house is</p>
+<ol start="14">
+<li>The number of doors is 6.</li>
+</ol>
+{%%%Example 264%%%}
+<ul>
+<li>
+<p>foo</p>
+</li>
+<li>
+<p>bar</p>
+</li>
+</ul>
+<ul>
+<li>baz</li>
+</ul>
+{%%%Example 265%%%}
+<ul>
+<li>foo</li>
+</ul>
+<p>bar</p>
+<ul>
+<li>baz</li>
+</ul>
+{%%%Example 266%%%}
+<ul>
+<li>foo
+<ul>
+<li>bar
+<ul>
+<li>baz</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<pre><code>  bim
+</code></pre>
+{%%%Example 267%%%}
+<ul>
+<li>foo</li>
+<li>bar</li>
+</ul>
+<ul>
+<li>baz</li>
+<li>bim</li>
+</ul>
+{%%%Example 268%%%}
+<ul>
+<li>
+<p>foo</p>
+<p>notcode</p>
+</li>
+<li>
+<p>foo</p>
+</li>
+</ul>
+<pre><code>code
+</code></pre>
+{%%%Example 269%%%}
+<ul>
+<li>a</li>
+<li>b</li>
+<li>c</li>
+<li>d</li>
+<li>e</li>
+<li>f</li>
+<li>g</li>
+<li>h</li>
+<li>i</li>
+</ul>
+{%%%Example 270%%%}
+<ol>
+<li>
+<p>a</p>
+</li>
+<li>
+<p>b</p>
+</li>
+<li>
+<p>c</p>
+</li>
+</ol>
+{%%%Example 271%%%}
+<ul>
+<li>
+<p>a</p>
+</li>
+<li>
+<p>b</p>
+</li>
+<li>
+<p>c</p>
+</li>
+</ul>
+{%%%Example 272%%%}
+<ul>
+<li>
+<p>a</p>
+</li>
+<li></li>
+<li>
+<p>c</p>
+</li>
+</ul>
+{%%%Example 273%%%}
+<ul>
+<li>
+<p>a</p>
+</li>
+<li>
+<p>b</p>
+<p>c</p>
+</li>
+<li>
+<p>d</p>
+</li>
+</ul>
+{%%%Example 274%%%}
+<ul>
+<li>
+<p>a</p>
+</li>
+<li>
+<p>b</p>
+</li>
+<li>
+<p>d</p>
+</li>
+</ul>
+{%%%Example 275%%%}
+<ul>
+<li>a</li>
+<li>
+<pre><code>b
+
+
+</code></pre>
+</li>
+<li>c</li>
+</ul>
+{%%%Example 276%%%}
+<ul>
+<li>a
+<ul>
+<li>
+<p>b</p>
+<p>c</p>
+</li>
+</ul>
+</li>
+<li>d</li>
+</ul>
+{%%%Example 277%%%}
+<ul>
+<li>a
+<blockquote>
+<p>b</p>
+</blockquote>
+</li>
+<li>c</li>
+</ul>
+{%%%Example 278%%%}
+<ul>
+<li>a
+<blockquote>
+<p>b</p>
+</blockquote>
+<pre><code>c
+</code></pre>
+</li>
+<li>d</li>
+</ul>
+{%%%Example 279%%%}
+<ul>
+<li>a</li>
+</ul>
+{%%%Example 280%%%}
+<ul>
+<li>a
+<ul>
+<li>b</li>
+</ul>
+</li>
+</ul>
+{%%%Example 281%%%}
+<ol>
+<li>
+<pre><code>foo
+</code></pre>
+<p>bar</p>
+</li>
+</ol>
+{%%%Example 282%%%}
+<ul>
+<li>
+<p>foo</p>
+<ul>
+<li>bar</li>
+</ul>
+<p>baz</p>
+</li>
+</ul>
+{%%%Example 283%%%}
+<ul>
+<li>
+<p>a</p>
+<ul>
+<li>b</li>
+<li>c</li>
+</ul>
+</li>
+<li>
+<p>d</p>
+<ul>
+<li>e</li>
+<li>f</li>
+</ul>
+</li>
+</ul>
+{%%%Example 284%%%}
+<p><code>hi</code>lo`</p>
+{%%%Example 285%%%}
+<p>!&quot;#$%&amp;'()*+,-./:;&lt;=&gt;?@[\]^_`{|}~</p>
+{%%%Example 286%%%}
+<p>\	\A\a\ \3\φ\«</p>
+{%%%Example 287%%%}
+<p>*not emphasized*
+&lt;br/&gt; not a tag
+[not a link](/foo)
+`not code`
+1. not a list
+* not a list
+# not a heading
+[foo]: /url &quot;not a reference&quot;</p>
+{%%%Example 288%%%}
+<p>\<em>emphasis</em></p>
+{%%%Example 289%%%}
+<p>foo<br />
+bar</p>
+{%%%Example 290%%%}
+<p><code>\[\`</code></p>
+{%%%Example 291%%%}
+<pre><code>\[\]
+</code></pre>
+{%%%Example 292%%%}
+<pre><code>\[\]
+</code></pre>
+{%%%Example 293%%%}
+<p><a href="http://example.com?find=%5C*">http://example.com?find=\*</a></p>
+{%%%Example 294%%%}
+<a href="/bar\/)">
+{%%%Example 295%%%}
+<p><a href="/bar*" title="ti*tle">foo</a></p>
+{%%%Example 296%%%}
+<p><a href="/bar*" title="ti*tle">foo</a></p>
+{%%%Example 297%%%}
+<pre><code class="language-foo+bar">foo
+</code></pre>
+{%%%Example 298%%%}
+<p>  &amp; © Æ Ď
+¾ ℋ ⅆ
+∲ ≧̸</p>
+{%%%Example 299%%%}
+<p># Ӓ Ϡ � �</p>
+{%%%Example 300%%%}
+<p>&quot; ആ ಫ</p>
+{%%%Example 301%%%}
+<p>&amp;nbsp &amp;x; &amp;#; &amp;#x;
+&amp;ThisIsNotDefined; &amp;hi?;</p>
+{%%%Example 302%%%}
+<p>&amp;copy</p>
+{%%%Example 303%%%}
+<p>&amp;MadeUpEntity;</p>
+{%%%Example 304%%%}
+<a href="&ouml;&ouml;.html">
+{%%%Example 305%%%}
+<p><a href="/f%C3%B6%C3%B6" title="föö">foo</a></p>
+{%%%Example 306%%%}
+<p><a href="/f%C3%B6%C3%B6" title="föö">foo</a></p>
+{%%%Example 307%%%}
+<pre><code class="language-föö">foo
+</code></pre>
+{%%%Example 308%%%}
+<p><code>f&amp;ouml;&amp;ouml;</code></p>
+{%%%Example 309%%%}
+<pre><code>f&amp;ouml;f&amp;ouml;
+</code></pre>
+{%%%Example 310%%%}
+<p><code>foo</code></p>
+{%%%Example 311%%%}
+<p><code>foo ` bar</code></p>
+{%%%Example 312%%%}
+<p><code>``</code></p>
+{%%%Example 313%%%}
+<p><code>foo</code></p>
+{%%%Example 314%%%}
+<p><code>foo bar baz</code></p>
+{%%%Example 315%%%}
+<p><code>foo `` bar</code></p>
+{%%%Example 316%%%}
+<p><code>foo\</code>bar`</p>
+{%%%Example 317%%%}
+<p>*foo<code>*</code></p>
+{%%%Example 318%%%}
+<p>[not a <code>link](/foo</code>)</p>
+{%%%Example 319%%%}
+<p><code>&lt;a href=&quot;</code>&quot;&gt;`</p>
+{%%%Example 320%%%}
+<p><a href="`">`</p>
+{%%%Example 321%%%}
+<p><code>&lt;http://foo.bar.</code>baz&gt;`</p>
+{%%%Example 322%%%}
+<p><a href="http://foo.bar.%60baz">http://foo.bar.`baz</a>`</p>
+{%%%Example 323%%%}
+<p>```foo``</p>
+{%%%Example 324%%%}
+<p>`foo</p>
+{%%%Example 325%%%}
+<p><em>foo bar</em></p>
+{%%%Example 326%%%}
+<p>a * foo bar*</p>
+{%%%Example 327%%%}
+<p>a*&quot;foo&quot;*</p>
+{%%%Example 328%%%}
+<p>* a *</p>
+{%%%Example 329%%%}
+<p>foo<em>bar</em></p>
+{%%%Example 330%%%}
+<p>5<em>6</em>78</p>
+{%%%Example 331%%%}
+<p><em>foo bar</em></p>
+{%%%Example 332%%%}
+<p>_ foo bar_</p>
+{%%%Example 333%%%}
+<p>a_&quot;foo&quot;_</p>
+{%%%Example 334%%%}
+<p>foo_bar_</p>
+{%%%Example 335%%%}
+<p>5_6_78</p>
+{%%%Example 336%%%}
+<p>пристаням_стремятся_</p>
+{%%%Example 337%%%}
+<p>aa_&quot;bb&quot;_cc</p>
+{%%%Example 338%%%}
+<p>foo-<em>(bar)</em></p>
+{%%%Example 339%%%}
+<p>_foo*</p>
+{%%%Example 340%%%}
+<p>*foo bar *</p>
+{%%%Example 341%%%}
+<p>*foo bar</p>
+<ul>
+<li></li>
+</ul>
+{%%%Example 342%%%}
+<p>*(*foo)</p>
+{%%%Example 343%%%}
+<p><em>(<em>foo</em>)</em></p>
+{%%%Example 344%%%}
+<p><em>foo</em>bar</p>
+{%%%Example 345%%%}
+<p>_foo bar _</p>
+{%%%Example 346%%%}
+<p>_(_foo)</p>
+{%%%Example 347%%%}
+<p><em>(<em>foo</em>)</em></p>
+{%%%Example 348%%%}
+<p>_foo_bar</p>
+{%%%Example 349%%%}
+<p>_пристаням_стремятся</p>
+{%%%Example 350%%%}
+<p><em>foo_bar_baz</em></p>
+{%%%Example 351%%%}
+<p><em>(bar)</em>.</p>
+{%%%Example 352%%%}
+<p><strong>foo bar</strong></p>
+{%%%Example 353%%%}
+<p>** foo bar**</p>
+{%%%Example 354%%%}
+<p>a**&quot;foo&quot;**</p>
+{%%%Example 355%%%}
+<p>foo<strong>bar</strong></p>
+{%%%Example 356%%%}
+<p><strong>foo bar</strong></p>
+{%%%Example 357%%%}
+<p>__ foo bar__</p>
+{%%%Example 358%%%}
+<p>__
+foo bar__</p>
+{%%%Example 359%%%}
+<p>a__&quot;foo&quot;__</p>
+{%%%Example 360%%%}
+<p>foo__bar__</p>
+{%%%Example 361%%%}
+<p>5__6__78</p>
+{%%%Example 362%%%}
+<p>пристаням__стремятся__</p>
+{%%%Example 363%%%}
+<p><strong>foo, <strong>bar</strong>, baz</strong></p>
+{%%%Example 364%%%}
+<p>foo-<strong>(bar)</strong></p>
+{%%%Example 365%%%}
+<p>**foo bar **</p>
+{%%%Example 366%%%}
+<p>**(**foo)</p>
+{%%%Example 367%%%}
+<p><em>(<strong>foo</strong>)</em></p>
+{%%%Example 368%%%}
+<p><strong>Gomphocarpus (<em>Gomphocarpus physocarpus</em>, syn.
+<em>Asclepias physocarpa</em>)</strong></p>
+{%%%Example 369%%%}
+<p><strong>foo &quot;<em>bar</em>&quot; foo</strong></p>
+{%%%Example 370%%%}
+<p><strong>foo</strong>bar</p>
+{%%%Example 371%%%}
+<p>__foo bar __</p>
+{%%%Example 372%%%}
+<p>__(__foo)</p>
+{%%%Example 373%%%}
+<p><em>(<strong>foo</strong>)</em></p>
+{%%%Example 374%%%}
+<p>__foo__bar</p>
+{%%%Example 375%%%}
+<p>__пристаням__стремятся</p>
+{%%%Example 376%%%}
+<p><strong>foo__bar__baz</strong></p>
+{%%%Example 377%%%}
+<p><strong>(bar)</strong>.</p>
+{%%%Example 378%%%}
+<p><em>foo <a href="/url">bar</a></em></p>
+{%%%Example 379%%%}
+<p><em>foo
+bar</em></p>
+{%%%Example 380%%%}
+<p><em>foo <strong>bar</strong> baz</em></p>
+{%%%Example 381%%%}
+<p><em>foo <em>bar</em> baz</em></p>
+{%%%Example 382%%%}
+<p><em><em>foo</em> bar</em></p>
+{%%%Example 383%%%}
+<p><em>foo <em>bar</em></em></p>
+{%%%Example 384%%%}
+<p><em>foo <strong>bar</strong> baz</em></p>
+{%%%Example 385%%%}
+<p><em>foo</em><em>bar</em><em>baz</em></p>
+{%%%Example 386%%%}
+<p><em><strong>foo</strong> bar</em></p>
+{%%%Example 387%%%}
+<p><em>foo <strong>bar</strong></em></p>
+{%%%Example 388%%%}
+<p><em>foo</em><em>bar</em>**</p>
+{%%%Example 389%%%}
+<p><em>foo <strong>bar <em>baz</em> bim</strong> bop</em></p>
+{%%%Example 390%%%}
+<p><em>foo <a href="/url"><em>bar</em></a></em></p>
+{%%%Example 391%%%}
+<p>** is not an empty emphasis</p>
+{%%%Example 392%%%}
+<p>**** is not an empty strong emphasis</p>
+{%%%Example 393%%%}
+<p><strong>foo <a href="/url">bar</a></strong></p>
+{%%%Example 394%%%}
+<p><strong>foo
+bar</strong></p>
+{%%%Example 395%%%}
+<p><strong>foo <em>bar</em> baz</strong></p>
+{%%%Example 396%%%}
+<p><strong>foo <strong>bar</strong> baz</strong></p>
+{%%%Example 397%%%}
+<p><strong><strong>foo</strong> bar</strong></p>
+{%%%Example 398%%%}
+<p><strong>foo <strong>bar</strong></strong></p>
+{%%%Example 399%%%}
+<p><strong>foo <em>bar</em> baz</strong></p>
+{%%%Example 400%%%}
+<p><em><em>foo</em>bar</em>baz**</p>
+{%%%Example 401%%%}
+<p><strong><em>foo</em> bar</strong></p>
+{%%%Example 402%%%}
+<p><strong>foo <em>bar</em></strong></p>
+{%%%Example 403%%%}
+<p><strong>foo <em>bar <strong>baz</strong>
+bim</em> bop</strong></p>
+{%%%Example 404%%%}
+<p><strong>foo <a href="/url"><em>bar</em></a></strong></p>
+{%%%Example 405%%%}
+<p>__ is not an empty emphasis</p>
+{%%%Example 406%%%}
+<p>____ is not an empty strong emphasis</p>
+{%%%Example 407%%%}
+<p>foo ***</p>
+{%%%Example 408%%%}
+<p>foo <em>*</em></p>
+{%%%Example 409%%%}
+<p>foo <em>_</em></p>
+{%%%Example 410%%%}
+<p>foo *****</p>
+{%%%Example 411%%%}
+<p>foo <strong>*</strong></p>
+{%%%Example 412%%%}
+<p>foo <strong>_</strong></p>
+{%%%Example 413%%%}
+<p>*<em>foo</em></p>
+{%%%Example 414%%%}
+<p><em>foo</em>*</p>
+{%%%Example 415%%%}
+<p>*<strong>foo</strong></p>
+{%%%Example 416%%%}
+<p>***<em>foo</em></p>
+{%%%Example 417%%%}
+<p><strong>foo</strong>*</p>
+{%%%Example 418%%%}
+<p><em>foo</em>***</p>
+{%%%Example 419%%%}
+<p>foo ___</p>
+{%%%Example 420%%%}
+<p>foo <em>_</em></p>
+{%%%Example 421%%%}
+<p>foo <em>*</em></p>
+{%%%Example 422%%%}
+<p>foo _____</p>
+{%%%Example 423%%%}
+<p>foo <strong>_</strong></p>
+{%%%Example 424%%%}
+<p>foo <strong>*</strong></p>
+{%%%Example 425%%%}
+<p>_<em>foo</em></p>
+{%%%Example 426%%%}
+<p><em>foo</em>_</p>
+{%%%Example 427%%%}
+<p>_<strong>foo</strong></p>
+{%%%Example 428%%%}
+<p>___<em>foo</em></p>
+{%%%Example 429%%%}
+<p><strong>foo</strong>_</p>
+{%%%Example 430%%%}
+<p><em>foo</em>___</p>
+{%%%Example 431%%%}
+<p><strong>foo</strong></p>
+{%%%Example 432%%%}
+<p><em><em>foo</em></em></p>
+{%%%Example 433%%%}
+<p><strong>foo</strong></p>
+{%%%Example 434%%%}
+<p><em><em>foo</em></em></p>
+{%%%Example 435%%%}
+<p><strong><strong>foo</strong></strong></p>
+{%%%Example 436%%%}
+<p><strong><strong>foo</strong></strong></p>
+{%%%Example 437%%%}
+<p><strong><strong><strong>foo</strong></strong></strong></p>
+{%%%Example 438%%%}
+<p><strong><em>foo</em></strong></p>
+{%%%Example 439%%%}
+<p><strong><strong><em>foo</em></strong></strong></p>
+{%%%Example 440%%%}
+<p><em>foo _bar</em> baz_</p>
+{%%%Example 441%%%}
+<p><em><em>foo</em>bar</em>*</p>
+{%%%Example 442%%%}
+<p><em>foo <strong>bar *baz bim</strong> bam</em></p>
+{%%%Example 443%%%}
+<p>**foo <strong>bar baz</strong></p>
+{%%%Example 444%%%}
+<p>*foo <em>bar baz</em></p>
+{%%%Example 445%%%}
+<p>*<a href="/url">bar*</a></p>
+{%%%Example 446%%%}
+<p>_foo <a href="/url">bar_</a></p>
+{%%%Example 447%%%}
+<p>*<img src="foo" title="*"/></p>
+{%%%Example 448%%%}
+<p>**<a href="**"></p>
+{%%%Example 449%%%}
+<p>__<a href="__"></p>
+{%%%Example 450%%%}
+<p><em>a <code>*</code></em></p>
+{%%%Example 451%%%}
+<p><em>a <code>_</code></em></p>
+{%%%Example 452%%%}
+<p>**a<a href="http://foo.bar/?q=**">http://foo.bar/?q=**</a></p>
+{%%%Example 453%%%}
+<p>__a<a href="http://foo.bar/?q=__">http://foo.bar/?q=__</a></p>
+{%%%Example 454%%%}
+<p><a href="/uri" title="title">link</a></p>
+{%%%Example 455%%%}
+<p><a href="/uri">link</a></p>
+{%%%Example 456%%%}
+<p><a href="">link</a></p>
+{%%%Example 457%%%}
+<p><a href="">link</a></p>
+{%%%Example 458%%%}
+<p>[link](/my uri)</p>
+{%%%Example 459%%%}
+<p>[link](&lt;/my uri&gt;)</p>
+{%%%Example 460%%%}
+<p>[link](foo
+bar)</p>
+{%%%Example 461%%%}
+<p>[link](<foo
+bar>)</p>
+{%%%Example 462%%%}
+<p><a href="(foo)">link</a></p>
+{%%%Example 463%%%}
+<p><a href="(foo)and(bar)">link</a></p>
+{%%%Example 464%%%}
+<p>[link](foo(and(bar)))</p>
+{%%%Example 465%%%}
+<p><a href="foo(and(bar))">link</a></p>
+{%%%Example 466%%%}
+<p><a href="foo(and(bar))">link</a></p>
+{%%%Example 467%%%}
+<p><a href="foo):">link</a></p>
+{%%%Example 468%%%}
+<p><a href="#fragment">link</a></p>
+<p><a href="http://example.com#fragment">link</a></p>
+<p><a href="http://example.com?foo=3#frag">link</a></p>
+{%%%Example 469%%%}
+<p><a href="foo%5Cbar">link</a></p>
+{%%%Example 470%%%}
+<p><a href="foo%20b%C3%A4">link</a></p>
+{%%%Example 471%%%}
+<p><a href="%22title%22">link</a></p>
+{%%%Example 472%%%}
+<p><a href="/url" title="title">link</a>
+<a href="/url" title="title">link</a>
+<a href="/url" title="title">link</a></p>
+{%%%Example 473%%%}
+<p><a href="/url" title="title &quot;&quot;">link</a></p>
+{%%%Example 474%%%}
+<p>[link](/url &quot;title &quot;and&quot; title&quot;)</p>
+{%%%Example 475%%%}
+<p><a href="/url" title="title &quot;and&quot; title">link</a></p>
+{%%%Example 476%%%}
+<p><a href="/uri" title="title">link</a></p>
+{%%%Example 477%%%}
+<p>[link] (/uri)</p>
+{%%%Example 478%%%}
+<p><a href="/uri">link [foo [bar]]</a></p>
+{%%%Example 479%%%}
+<p>[link] bar](/uri)</p>
+{%%%Example 480%%%}
+<p>[link <a href="/uri">bar</a></p>
+{%%%Example 481%%%}
+<p><a href="/uri">link [bar</a></p>
+{%%%Example 482%%%}
+<p><a href="/uri">link <em>foo <strong>bar</strong> <code>#</code></em></a></p>
+{%%%Example 483%%%}
+<p><a href="/uri"><img src="moon.jpg" alt="moon" /></a></p>
+{%%%Example 484%%%}
+<p>[foo <a href="/uri">bar</a>](/uri)</p>
+{%%%Example 485%%%}
+<p>[foo <em>[bar <a href="/uri">baz</a>](/uri)</em>](/uri)</p>
+{%%%Example 486%%%}
+<p><img src="uri3" alt="[foo](uri2)" /></p>
+{%%%Example 487%%%}
+<p>*<a href="/uri">foo*</a></p>
+{%%%Example 488%%%}
+<p><a href="baz*">foo *bar</a></p>
+{%%%Example 489%%%}
+<p><em>foo [bar</em> baz]</p>
+{%%%Example 490%%%}
+<p>[foo <bar attr="](baz)"></p>
+{%%%Example 491%%%}
+<p>[foo<code>](/uri)</code></p>
+{%%%Example 492%%%}
+<p>[foo<a href="http://example.com/?search=%5D(uri)">http://example.com/?search=](uri)</a></p>
+{%%%Example 493%%%}
+<p><a href="/url" title="title">foo</a></p>
+{%%%Example 494%%%}
+<p><a href="/uri">link [foo [bar]]</a></p>
+{%%%Example 495%%%}
+<p><a href="/uri">link [bar</a></p>
+{%%%Example 496%%%}
+<p><a href="/uri">link <em>foo <strong>bar</strong> <code>#</code></em></a></p>
+{%%%Example 497%%%}
+<p><a href="/uri"><img src="moon.jpg" alt="moon" /></a></p>
+{%%%Example 498%%%}
+<p>[foo <a href="/uri">bar</a>]<a href="/uri">ref</a></p>
+{%%%Example 499%%%}
+<p>[foo <em>bar <a href="/uri">baz</a></em>]<a href="/uri">ref</a></p>
+{%%%Example 500%%%}
+<p>*<a href="/uri">foo*</a></p>
+{%%%Example 501%%%}
+<p><a href="/uri">foo *bar</a></p>
+{%%%Example 502%%%}
+<p>[foo <bar attr="][ref]"></p>
+{%%%Example 503%%%}
+<p>[foo<code>][ref]</code></p>
+{%%%Example 504%%%}
+<p>[foo<a href="http://example.com/?search=%5D%5Bref%5D">http://example.com/?search=][ref]</a></p>
+{%%%Example 505%%%}
+<p><a href="/url" title="title">foo</a></p>
+{%%%Example 506%%%}
+<p><a href="/url">Толпой</a> is a Russian word.</p>
+{%%%Example 507%%%}
+<p><a href="/url">Baz</a></p>
+{%%%Example 508%%%}
+<p>[foo] <a href="/url" title="title">bar</a></p>
+{%%%Example 509%%%}
+<p>[foo]
+<a href="/url" title="title">bar</a></p>
+{%%%Example 510%%%}
+<p><a href="/url1">bar</a></p>
+{%%%Example 511%%%}
+<p>[bar][foo!]</p>
+{%%%Example 512%%%}
+<p>[foo][ref[]</p>
+<p>[ref[]: /uri</p>
+{%%%Example 513%%%}
+<p>[foo][ref[bar]]</p>
+<p>[ref[bar]]: /uri</p>
+{%%%Example 514%%%}
+<p>[[[foo]]]</p>
+<p>[[[foo]]]: /url</p>
+{%%%Example 515%%%}
+<p><a href="/uri">foo</a></p>
+{%%%Example 516%%%}
+<p><a href="/uri">bar\</a></p>
+{%%%Example 517%%%}
+<p>[]</p>
+<p>[]: /uri</p>
+{%%%Example 518%%%}
+<p>[
+]</p>
+<p>[
+]: /uri</p>
+{%%%Example 519%%%}
+<p><a href="/url" title="title">foo</a></p>
+{%%%Example 520%%%}
+<p><a href="/url" title="title"><em>foo</em> bar</a></p>
+{%%%Example 521%%%}
+<p><a href="/url" title="title">Foo</a></p>
+{%%%Example 522%%%}
+<p><a href="/url" title="title">foo</a>
+[]</p>
+{%%%Example 523%%%}
+<p><a href="/url" title="title">foo</a></p>
+{%%%Example 524%%%}
+<p><a href="/url" title="title"><em>foo</em> bar</a></p>
+{%%%Example 525%%%}
+<p>[<a href="/url" title="title"><em>foo</em> bar</a>]</p>
+{%%%Example 526%%%}
+<p>[[bar <a href="/url">foo</a></p>
+{%%%Example 527%%%}
+<p><a href="/url" title="title">Foo</a></p>
+{%%%Example 528%%%}
+<p><a href="/url">foo</a> bar</p>
+{%%%Example 529%%%}
+<p>[foo]</p>
+{%%%Example 530%%%}
+<p>*<a href="/url">foo*</a></p>
+{%%%Example 531%%%}
+<p><a href="/url2">foo</a></p>
+{%%%Example 532%%%}
+<p>[foo]<a href="/url">bar</a></p>
+{%%%Example 533%%%}
+<p><a href="/url2">foo</a><a href="/url1">baz</a></p>
+{%%%Example 534%%%}
+<p>[foo]<a href="/url1">bar</a></p>
+{%%%Example 535%%%}
+<p><img src="/url" alt="foo" title="title" /></p>
+{%%%Example 536%%%}
+<p><img src="train.jpg" alt="foo bar" title="train &amp; tracks" /></p>
+{%%%Example 537%%%}
+<p><img src="/url2" alt="foo bar" /></p>
+{%%%Example 538%%%}
+<p><img src="/url2" alt="foo bar" /></p>
+{%%%Example 539%%%}
+<p><img src="train.jpg" alt="foo bar" title="train &amp; tracks" /></p>
+{%%%Example 540%%%}
+<p><img src="train.jpg" alt="foo bar" title="train &amp; tracks" /></p>
+{%%%Example 541%%%}
+<p><img src="train.jpg" alt="foo" /></p>
+{%%%Example 542%%%}
+<p>My <img src="/path/to/train.jpg" alt="foo bar" title="title" /></p>
+{%%%Example 543%%%}
+<p><img src="url" alt="foo" /></p>
+{%%%Example 544%%%}
+<p><img src="/url" alt="" /></p>
+{%%%Example 545%%%}
+<p><img src="/url" alt="foo" /></p>
+{%%%Example 546%%%}
+<p><img src="/url" alt="foo" /></p>
+{%%%Example 547%%%}
+<p><img src="/url" alt="foo" title="title" /></p>
+{%%%Example 548%%%}
+<p><img src="/url" alt="foo bar" title="title" /></p>
+{%%%Example 549%%%}
+<p><img src="/url" alt="Foo" title="title" /></p>
+{%%%Example 550%%%}
+<p><img src="/url" alt="foo" title="title" />
+[]</p>
+{%%%Example 551%%%}
+<p><img src="/url" alt="foo" title="title" /></p>
+{%%%Example 552%%%}
+<p><img src="/url" alt="foo bar" title="title" /></p>
+{%%%Example 553%%%}
+<p>![[foo]]</p>
+<p>[[foo]]: /url &quot;title&quot;</p>
+{%%%Example 554%%%}
+<p><img src="/url" alt="Foo" title="title" /></p>
+{%%%Example 555%%%}
+<p>![foo]</p>
+{%%%Example 556%%%}
+<p>!<a href="/url" title="title">foo</a></p>
+{%%%Example 557%%%}
+<p><a href="http://foo.bar.baz">http://foo.bar.baz</a></p>
+{%%%Example 558%%%}
+<p><a href="http://foo.bar.baz/test?q=hello&amp;id=22&amp;boolean">http://foo.bar.baz/test?q=hello&amp;id=22&amp;boolean</a></p>
+{%%%Example 559%%%}
+<p><a href="irc://foo.bar:2233/baz">irc://foo.bar:2233/baz</a></p>
+{%%%Example 560%%%}
+<p><a href="MAILTO:FOO@BAR.BAZ">MAILTO:FOO@BAR.BAZ</a></p>
+{%%%Example 561%%%}
+<p><a href="a+b+c:d">a+b+c:d</a></p>
+{%%%Example 562%%%}
+<p><a href="made-up-scheme://foo,bar">made-up-scheme://foo,bar</a></p>
+{%%%Example 563%%%}
+<p><a href="http://../">http://../</a></p>
+{%%%Example 564%%%}
+<p><a href="localhost:5001/foo">localhost:5001/foo</a></p>
+{%%%Example 565%%%}
+<p>&lt;http://foo.bar/baz bim&gt;</p>
+{%%%Example 566%%%}
+<p><a href="http://example.com/%5C%5B%5C">http://example.com/\[\</a></p>
+{%%%Example 567%%%}
+<p><a href="mailto:foo@bar.example.com">foo@bar.example.com</a></p>
+{%%%Example 568%%%}
+<p><a href="mailto:foo+special@Bar.baz-bar0.com">foo+special@Bar.baz-bar0.com</a></p>
+{%%%Example 569%%%}
+<p>&lt;foo+@bar.example.com&gt;</p>
+{%%%Example 570%%%}
+<p>&lt;&gt;</p>
+{%%%Example 571%%%}
+<p>&lt; http://foo.bar &gt;</p>
+{%%%Example 572%%%}
+<p>&lt;m:abc&gt;</p>
+{%%%Example 573%%%}
+<p>&lt;foo.bar.baz&gt;</p>
+{%%%Example 574%%%}
+<p>http://example.com</p>
+{%%%Example 575%%%}
+<p>foo@bar.example.com</p>
+{%%%Example 576%%%}
+<p><a><bab><c2c></p>
+{%%%Example 577%%%}
+<p><a/><b2/></p>
+{%%%Example 578%%%}
+<p><a  /><b2
+data="foo" ></p>
+{%%%Example 579%%%}
+<p><a foo="bar" bam = 'baz <em>"</em>'
+_boolean zoop:33=zoop:33 /></p>
+{%%%Example 580%%%}
+<p>Foo <responsive-image src="foo.jpg" /></p>
+{%%%Example 581%%%}
+<p>&lt;33&gt; &lt;__&gt;</p>
+{%%%Example 582%%%}
+<p>&lt;a h*#ref=&quot;hi&quot;&gt;</p>
+{%%%Example 583%%%}
+<p>&lt;a href=&quot;hi'&gt; &lt;a href=hi'&gt;</p>
+{%%%Example 584%%%}
+<p>&lt; a&gt;&lt;
+foo&gt;&lt;bar/ &gt;</p>
+{%%%Example 585%%%}
+<p>&lt;a href='bar'title=title&gt;</p>
+{%%%Example 586%%%}
+<p></a></foo ></p>
+{%%%Example 587%%%}
+<p>&lt;/a href=&quot;foo&quot;&gt;</p>
+{%%%Example 588%%%}
+<p>foo <!-- this is a
+comment - with hyphen --></p>
+{%%%Example 589%%%}
+<p>foo &lt;!-- not a comment -- two hyphens --&gt;</p>
+{%%%Example 590%%%}
+<p>foo &lt;!--&gt; foo --&gt;</p>
+<p>foo &lt;!-- foo---&gt;</p>
+{%%%Example 591%%%}
+<p>foo <?php echo $a; ?></p>
+{%%%Example 592%%%}
+<p>foo <!ELEMENT br EMPTY></p>
+{%%%Example 593%%%}
+<p>foo <![CDATA[>&<]]></p>
+{%%%Example 594%%%}
+<p>foo <a href="&ouml;"></p>
+{%%%Example 595%%%}
+<p>foo <a href="\*"></p>
+{%%%Example 596%%%}
+<p>&lt;a href=&quot;&quot;&quot;&gt;</p>
+{%%%Example 597%%%}
+<p>foo<br />
+baz</p>
+{%%%Example 598%%%}
+<p>foo<br />
+baz</p>
+{%%%Example 599%%%}
+<p>foo<br />
+baz</p>
+{%%%Example 600%%%}
+<p>foo<br />
+bar</p>
+{%%%Example 601%%%}
+<p>foo<br />
+bar</p>
+{%%%Example 602%%%}
+<p><em>foo<br />
+bar</em></p>
+{%%%Example 603%%%}
+<p><em>foo<br />
+bar</em></p>
+{%%%Example 604%%%}
+<p><code>code span</code></p>
+{%%%Example 605%%%}
+<p><code>code\ span</code></p>
+{%%%Example 606%%%}
+<p><a href="foo  
+bar"></p>
+{%%%Example 607%%%}
+<p><a href="foo\
+bar"></p>
+{%%%Example 608%%%}
+<p>foo\</p>
+{%%%Example 609%%%}
+<p>foo</p>
+{%%%Example 610%%%}
+<h3>foo\</h3>
+{%%%Example 611%%%}
+<h3>foo</h3>
+{%%%Example 612%%%}
+<p>foo
+baz</p>
+{%%%Example 613%%%}
+<p>foo
+baz</p>
+{%%%Example 614%%%}
+<p>hello $.;'there</p>
+{%%%Example 615%%%}
+<p>Foo χρῆν</p>
+{%%%Example 616%%%}
+<p>Multiple     spaces</p>
